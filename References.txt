@@ -1,0 +1,5 @@
+Video: https://www.youtube.com/watch?v=YS4e4q9oBaU
+Interfaces: https://jordanorelli.com/post/32665860244/how-to-use-interfaces-in-go
+Pointers: https://medium.com/@manus.can/how-to-use-pointer-in-golang-8a4416ceb98b
+Go Routines: https://medium.com/technofunnel/understanding-golang-and-goroutines-72ac3c9a014d
+Go ORM: https://gorm.io/docs/index.html
