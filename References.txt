@@ -1,5 +1,19 @@
 Video: https://www.youtube.com/watch?v=YS4e4q9oBaU
 Interfaces: https://jordanorelli.com/post/32665860244/how-to-use-interfaces-in-go
 Pointers: https://medium.com/@manus.can/how-to-use-pointer-in-golang-8a4416ceb98b
+
 Go Routines: https://medium.com/technofunnel/understanding-golang-and-goroutines-72ac3c9a014d
+
+
+Database with Go
 Go ORM: https://gorm.io/docs/index.html
+One to One Relation: 
+  https://gorm.io/docs/has_one.html
+  https://gorm.io/docs/belongs_to.html
+One to Many(Has Many): https://gorm.io/docs/has_many.html
+Many to Many Relation: https://gorm.io/docs/many_to_many.html
+Associations: https://gorm.io/docs/associations.html
+Error Handling: https://gorm.io/docs/error_handling.html
+
+
+Checkout the differnce between save and update
