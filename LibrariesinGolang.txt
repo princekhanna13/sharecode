@@ -1,0 +1,5 @@
+Logging: https://github.com/sirupsen/logrus
+Router: https://github.com/go-chi/chi
+Database Migration: https://github.com/golang-migrate/migrate
+EnvCOnfig: https://github.com/vrischmann/envconfig
+For reading env file: https://github.com/joho/godotenv
