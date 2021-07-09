@@ -1,0 +1,4 @@
+For Running Database in Docker: docker run --name <VMName> -e POSTGRES_PASSWORD=mysecretpassword -e POSTGRES_DB=<DBName> -p 5432:5432 -d postgres
+For import Go Library: go get <libraryURL>
+For Creating new git project : go mod init
+For correcting go dependencies: go mod tidy
